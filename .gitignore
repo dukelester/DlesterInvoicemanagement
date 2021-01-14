@@ -1,0 +1,10 @@
+db.sqlite3
+*.pyc
+.idea
+.coverage
+.vagrant
+ubuntu-xenial-16.04-cloudimg-console.log
+ve
+ve/*
+.DS_Store
+geckodriver.log
